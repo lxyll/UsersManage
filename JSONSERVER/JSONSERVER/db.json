@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "lxy",
+      "phone": "13598451542",
+      "email": "156896354@qq.com",
+      "education": "大专",
+      "graduationschool": "广厦学院",
+      "profession": "web前端",
+      "profile": "为人正直，诚实",
+      "id": 1
+    },
+    {
+      "name": "李天王",
+      "phone": "13596254815",
+      "email": "6255li23@gamil.com",
+      "education": "本科",
+      "graduationschool": "浙江大学",
+      "profession": "土木工程",
+      "profile": "聪明，诚实",
+      "id": 2
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft is good!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is good!"
+    }
+  ]
+}
